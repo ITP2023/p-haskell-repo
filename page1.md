@@ -16,7 +16,7 @@ f x = x + 3
 
 Type enforcement is also possible in haskell and can be done like so:
 
-```
+```haskell
 f :: Int -> Int
 f :: Float -> Float
 -- or more generally,
